@@ -26,7 +26,7 @@ function App() {
 					className='logoStart'
 				>
 					<img
-						src='https://github.com/himrd95/portfolio/blob/main/src/assets/logo_new.png?raw=true'
+						src='https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg?size=626&ext=jpg&ga=GA1.1.1963182980.1648578539'
 						alt='logo'
 					/>
 				</div>
